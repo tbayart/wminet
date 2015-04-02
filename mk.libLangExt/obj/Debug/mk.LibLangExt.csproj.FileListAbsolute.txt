@@ -1,0 +1,10 @@
+D:\Lab\Projects\WmiLib\mk.LibLangExt\bin\Debug\mk.LibLangExt.dll
+D:\Lab\Projects\WmiLib\mk.LibLangExt\bin\Debug\mk.LibLangExt.pdb
+D:\Lab\Projects\WmiLib\mk.LibLangExt\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\WmiLib\mk.LibLangExt\obj\Debug\mk.LibLangExt.dll
+D:\Lab\Projects\WmiLib\mk.LibLangExt\obj\Debug\mk.LibLangExt.pdb
+D:\Lab\Projects\mkcs\mk.LibLangExt\bin\Debug\mk.LibLangExt.dll
+D:\Lab\Projects\mkcs\mk.LibLangExt\bin\Debug\mk.LibLangExt.pdb
+D:\Lab\Projects\mkcs\mk.LibLangExt\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\mk.LibLangExt\obj\Debug\mk.LibLangExt.dll
+D:\Lab\Projects\mkcs\mk.LibLangExt\obj\Debug\mk.LibLangExt.pdb

@@ -1,0 +1,5 @@
+D:\Lab\Projects\mkcs\mk.libInstrumentation.dto\bin\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\mk.libInstrumentation.dto\bin\Debug\mk.libWmiNet.dto.pdb
+D:\Lab\Projects\mkcs\mk.libInstrumentation.dto\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\mk.libInstrumentation.dto\obj\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\mk.libInstrumentation.dto\obj\Debug\mk.libWmiNet.dto.pdb

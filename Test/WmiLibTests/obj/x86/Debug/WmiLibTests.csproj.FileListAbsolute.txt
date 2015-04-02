@@ -1,0 +1,16 @@
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\WmiLibTests.exe.config
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\WmiLibTests.exe
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\WmiLibTests.pdb
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\log4net.dll
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libWmiNet.dll
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\nunit.framework.dll
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libUtils.dll
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libWmiNet.dto.pdb
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libWmiNet.pdb
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\log4net.xml
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\nunit.framework.xml
+D:\Lab\Projects\mkcs\Test\WmiLibTests\bin\Debug\mk.libUtils.pdb
+D:\Lab\Projects\mkcs\Test\WmiLibTests\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\Test\WmiLibTests\obj\x86\Debug\WmiLibTests.exe
+D:\Lab\Projects\mkcs\Test\WmiLibTests\obj\x86\Debug\WmiLibTests.pdb

@@ -1,0 +1,8 @@
+D:\Lab\Projects\mkcs\Test\Log4NetTests\bin\Debug\Log4NetTests.exe.config
+D:\Lab\Projects\mkcs\Test\Log4NetTests\bin\Debug\Log4NetTests.exe
+D:\Lab\Projects\mkcs\Test\Log4NetTests\bin\Debug\Log4NetTests.pdb
+D:\Lab\Projects\mkcs\Test\Log4NetTests\bin\Debug\log4net.dll
+D:\Lab\Projects\mkcs\Test\Log4NetTests\bin\Debug\log4net.xml
+D:\Lab\Projects\mkcs\Test\Log4NetTests\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\Test\Log4NetTests\obj\x86\Debug\Log4NetTests.exe
+D:\Lab\Projects\mkcs\Test\Log4NetTests\obj\x86\Debug\Log4NetTests.pdb

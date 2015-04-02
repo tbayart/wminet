@@ -1,0 +1,13 @@
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\WmiWindowsServiceTest.exe
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\WmiWindowsServiceTest.pdb
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libWmiNet.dll
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libUtils.dll
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libWmiNet.pdb
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libWmiNet.dto.pdb
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\mk.libUtils.pdb
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\obj\x86\Debug\WmiWindowsServiceTest.exe
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\obj\x86\Debug\WmiWindowsServiceTest.pdb
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\nunit.framework.dll
+D:\Lab\Projects\mkcs\WmiWindowsServiceTest\bin\Debug\nunit.framework.xml

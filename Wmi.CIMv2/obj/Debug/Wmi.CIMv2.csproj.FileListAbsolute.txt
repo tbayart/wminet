@@ -1,0 +1,5 @@
+D:\Lab\Projects\WmiLib\Wmi.CIMv2\bin\Debug\Wmi.CIMv2.dll
+D:\Lab\Projects\WmiLib\Wmi.CIMv2\bin\Debug\Wmi.CIMv2.pdb
+D:\Lab\Projects\WmiLib\Wmi.CIMv2\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\WmiLib\Wmi.CIMv2\obj\Debug\Wmi.CIMv2.dll
+D:\Lab\Projects\WmiLib\Wmi.CIMv2\obj\Debug\Wmi.CIMv2.pdb

@@ -1,0 +1,5 @@
+D:\Lab\Projects\mkcs\mk.libUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\mk.libUtils\bin\Debug\mk.libUtils.dll
+D:\Lab\Projects\mkcs\mk.libUtils\bin\Debug\mk.libUtils.pdb
+D:\Lab\Projects\mkcs\mk.libUtils\obj\Debug\mk.libUtils.dll
+D:\Lab\Projects\mkcs\mk.libUtils\obj\Debug\mk.libUtils.pdb

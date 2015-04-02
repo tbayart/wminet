@@ -1,0 +1,9 @@
+D:\Lab\Projects\mkcs\TestWinSvc\bin\Debug\TestWinSvc.exe
+D:\Lab\Projects\mkcs\TestWinSvc\bin\Debug\TestWinSvc.pdb
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\TestWinSvc.exe
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\TestWinSvc.pdb
+D:\Lab\Projects\mkcs\TestWinSvc\bin\Debug\TestWinSvc.exe.config
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\TestWinSvc.TestWinSvc.resources
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lab\Projects\mkcs\TestWinSvc\obj\x86\Debug\GenerateResource.write.1.tlog

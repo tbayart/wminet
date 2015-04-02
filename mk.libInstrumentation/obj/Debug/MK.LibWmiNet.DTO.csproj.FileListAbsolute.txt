@@ -1,0 +1,10 @@
+D:\Lab\Projects\WmiLib\MK.LibWmiNet.DTO\bin\Debug\MK.LibWmiNet.DTO.dll
+D:\Lab\Projects\WmiLib\MK.LibWmiNet.DTO\bin\Debug\MK.LibWmiNet.DTO.pdb
+D:\Lab\Projects\WmiLib\MK.LibWmiNet.DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\WmiLib\MK.LibWmiNet.DTO\obj\Debug\MK.LibWmiNet.DTO.dll
+D:\Lab\Projects\WmiLib\MK.LibWmiNet.DTO\obj\Debug\MK.LibWmiNet.DTO.pdb
+D:\Lab\Projects\mkcs\MK.LibWmiNet.DTO\bin\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\MK.LibWmiNet.DTO\bin\Debug\mk.libWmiNet.dto.pdb
+D:\Lab\Projects\mkcs\MK.LibWmiNet.DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Projects\mkcs\MK.LibWmiNet.DTO\obj\Debug\mk.libWmiNet.dto.dll
+D:\Lab\Projects\mkcs\MK.LibWmiNet.DTO\obj\Debug\mk.libWmiNet.dto.pdb
